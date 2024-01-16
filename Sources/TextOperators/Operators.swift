@@ -9,6 +9,7 @@ import Foundation
 
 import Datable
 import Starfish
+import Text
 
 prefix operator ⟝
 prefix operator ⟞

@@ -1,6 +1,8 @@
 import XCTest
 @testable import TextOperators
 
+import Text
+
 final class TextOperatorsTests: XCTestCase
 {
     func testFilterNumericWithOperators() throws
